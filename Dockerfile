@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.10
 
 MAINTAINER Marco Gittler <marco@gitma.de>
 
