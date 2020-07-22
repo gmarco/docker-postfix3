@@ -1,6 +1,6 @@
-FROM alpine:3.11
+FROM alpine:3.12
 
-MAINTAINER Instrumentisto Team <developer@instrumentisto.com>
+MAINTAINER Marco Gittler <marco@gitma.de>
 
 
 # Build and install Postfix
